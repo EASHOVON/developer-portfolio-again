@@ -35,3 +35,12 @@ body {
 .orange-color {
   color: orange;
 }
+
+.btn-hire {
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 40px;
+  font-weight: 700;
+  border-radius: 5px;
+}
