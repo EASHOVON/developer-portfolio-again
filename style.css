@@ -12,6 +12,7 @@ body {
 .hero-section {
   display: flex;
   padding-left: 60px;
+  align-items: center;
 }
 
 .hero-details {
