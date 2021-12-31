@@ -2,6 +2,11 @@ body {
   font-family: "Libre Franklin", sans-serif;
 }
 
+/* Hero section Styles */
+.hero-section {
+  display: flex;
+}
+
 h1 {
   font-size: 50px;
 }
