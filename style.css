@@ -69,6 +69,7 @@ body {
 /* About Section Styling */
 .about {
   display: flex;
+  align-items: center;
 }
 
 .about-left {
@@ -81,4 +82,8 @@ body {
 
 .about-right {
   width: 50%;
+}
+
+.about-right > h1 {
+  font-size: 50px;
 }
