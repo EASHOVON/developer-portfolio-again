@@ -70,3 +70,7 @@ body {
 .about {
   display: flex;
 }
+
+.about-left {
+  width: 50%;
+}
