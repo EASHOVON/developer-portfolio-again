@@ -87,3 +87,11 @@ body {
 .about-right > h1 {
   font-size: 50px;
 }
+
+.about-right > h3 {
+  margin-bottom: 20px;
+}
+
+.about-text {
+  color: dimgray;
+}
