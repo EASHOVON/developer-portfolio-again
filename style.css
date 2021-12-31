@@ -1,3 +1,5 @@
+/* Global css */
+
 * {
   margin: 0;
   padding: 0;
@@ -13,6 +15,7 @@ body {
   display: flex;
   padding-left: 60px;
   align-items: center;
+  background: url(./images/top-banner.png) no-repeat;
 }
 
 .hero-details {
