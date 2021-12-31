@@ -15,6 +15,10 @@ body {
   width: 50%;
 }
 
+.hero-image img {
+  width: 80%;
+}
+
 .hero-details > h1 {
   font-size: 50px;
 }
