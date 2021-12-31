@@ -7,7 +7,7 @@ body {
   display: flex;
 }
 
-h1 {
+.hero-details > h1 {
   font-size: 50px;
 }
 
