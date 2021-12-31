@@ -65,3 +65,8 @@ body {
   font-weight: 700;
   border-radius: 5px;
 }
+
+/* About Section Styling */
+.about {
+  display: flex;
+}
