@@ -7,6 +7,14 @@ body {
   display: flex;
 }
 
+.hero-details {
+  width: 50%;
+}
+
+.hero-image {
+  width: 50%;
+}
+
 .hero-details > h1 {
   font-size: 50px;
 }
