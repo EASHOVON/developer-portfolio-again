@@ -69,7 +69,7 @@ body {
 /* About Section Styling */
 .about {
   display: flex;
-  align-items: center;
+  padding: 0 30px;
 }
 
 .about-left {
@@ -82,10 +82,12 @@ body {
 
 .about-right {
   width: 50%;
+  margin-top: 65px;
 }
 
 .about-right > h1 {
   font-size: 50px;
+  margin-bottom: 38px;
 }
 
 .about-right > h3 {
@@ -94,4 +96,15 @@ body {
 
 .about-text {
   color: dimgray;
+  margin-bottom: 25px;
+}
+
+.btn-resume {
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 40px;
+  font-weight: 700;
+  border-radius: 5px;
+  text-transform: uppercase;
 }
