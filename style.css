@@ -126,3 +126,7 @@ body {
 .exp-body {
   display: flex;
 }
+
+.exp-ex {
+  width: 40%;
+}
