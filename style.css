@@ -73,6 +73,7 @@ body {
   padding: 0 30px;
   background: url(./images/dream-bg.png) no-repeat;
   background-position: right 205px;
+  margin-bottom: 150px;
 }
 
 .about-left {
@@ -116,4 +117,12 @@ body {
 .exp-sec {
   background: url(./images/exp-bg.png) no-repeat;
   background-position: left;
+}
+
+.exp-sec > h1 {
+  font-size: 50px;
+}
+
+.exp-body {
+  display: flex;
 }
