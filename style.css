@@ -113,3 +113,7 @@ body {
 }
 
 /* Experience Section */
+.exp-sec {
+  background: url(./images/exp-bg.png) no-repeat;
+  background-position: left;
+}
