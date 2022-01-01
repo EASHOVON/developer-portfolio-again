@@ -125,16 +125,33 @@ body {
 
 .exp-body {
   display: flex;
+  justify-content: center;
 }
 
 .exp-ex {
   width: 40%;
-  margin-left: 5%;
   box-shadow: 10px 5px 40px gray;
+  padding-left: 3%;
+}
+
+.exp-ex > h1 {
+  font-size: 35px;
+  margin-top: 30px;
+}
+
+.exp-ex > h3 {
+  color: orange;
+  margin-top: 30px;
+}
+
+.exp-ex > p {
+  color: dimgray;
+  margin-top: 15px;
 }
 
 .exp-entry {
   width: 40%;
   margin-left: 5%;
   box-shadow: 10px 5px 40px gray;
+  padding-left: 3%;
 }
