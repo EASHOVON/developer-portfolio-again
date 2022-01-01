@@ -116,11 +116,13 @@ body {
 /* Experience Section */
 .exp-sec {
   background: url(./images/exp-bg.png) no-repeat;
-  background-position: left;
+  background-position: left 134px;
+  margin-bottom: 150px;
 }
 
 .exp-sec > h1 {
   font-size: 50px;
+  margin-bottom: 30px;
 }
 
 .exp-body {
@@ -129,9 +131,13 @@ body {
 }
 
 .exp-ex {
-  width: 40%;
+  width: 42%;
   box-shadow: 10px 5px 40px gray;
   padding-left: 3%;
+  border-radius: 10px;
+  border-left: 7px solid;
+  border-image: linear-gradient(rgb(233, 164, 151), rgb(255, 84, 54));
+  border-image-slice: 1;
 }
 
 .exp-ex > h1 {
@@ -147,11 +153,31 @@ body {
 .exp-ex > p {
   color: dimgray;
   margin-top: 15px;
+  margin-bottom: 50px;
 }
 
 .exp-entry {
-  width: 40%;
+  width: 42%;
   margin-left: 5%;
   box-shadow: 10px 5px 40px gray;
   padding-left: 3%;
+  border-radius: 10px;
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+.exp-entry > h1 {
+  font-size: 35px;
+  margin-top: 30px;
+}
+
+.exp-entry > h3 {
+  color: orange;
+  margin-top: 30px;
+}
+
+.exp-entry > p {
+  color: dimgray;
+  margin-top: 15px;
 }
