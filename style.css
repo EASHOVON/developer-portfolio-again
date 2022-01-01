@@ -16,6 +16,7 @@ body {
   padding-left: 60px;
   align-items: center;
   background: url(./images/top-banner.png) no-repeat;
+  margin-bottom: 150px;
 }
 
 .hero-details {
@@ -70,6 +71,8 @@ body {
 .about {
   display: flex;
   padding: 0 30px;
+  background: url(./images/dream-bg.png) no-repeat;
+  background-position: right 205px;
 }
 
 .about-left {
